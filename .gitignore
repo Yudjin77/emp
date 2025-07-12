@@ -8,6 +8,6 @@ __pycache__/
 django.log
 security.log
 
-# db.sqllite3
-# media/
-# debug.log
+db.sqllite3
+media/
+debug.log
